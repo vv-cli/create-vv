@@ -1,0 +1,4 @@
+# 禁止上传到npm
+node_modules/
+src/
+build.config.js

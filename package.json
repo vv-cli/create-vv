@@ -1,0 +1,31 @@
+{
+  "name": "create-vv",
+  "version": "1.1.1",
+  "description": "基于vite搭建的vue3定制化脚手架",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-vv": "./index.js",
+    "cvv": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "unbuild"
+  },
+  "engines": {
+    "node": "^14.18.0 || >=16.0.0"
+  },
+  "keywords": [
+    "vue3",
+    "vue-cli"
+  ],
+  "author": "actor",
+  "license": "ISC",
+  "devDependencies": {
+    "kolorist": "^1.8.0",
+    "minimist": "^1.2.8",
+    "mustache": "^4.2.0",
+    "prompts": "^2.4.2",
+    "unbuild": "^1.2.1"
+  }
+}

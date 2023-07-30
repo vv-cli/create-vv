@@ -1,0 +1,8 @@
+# 以下文件或目录不进行eslint校验
+dist
+node_modules
+!.prettierrc.js
+.DS_Store
+*.local
+*.d.ts
+
