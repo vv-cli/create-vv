@@ -18,6 +18,14 @@
   "engines": {
     "node": "^14.18.0 || >=16.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vv-cli/create-vv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vv-cli/create-vv/issues"
+  },
+  "homepage": "https://github.com/vv-cli/create-vv/tree/main#readme",
   "keywords": [
     "vue3",
     "vue-cli"
